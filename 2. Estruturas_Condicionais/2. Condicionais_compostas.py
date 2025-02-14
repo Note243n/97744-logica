@@ -14,5 +14,5 @@ else:
     print("Acesso permitido!")
 
 # Exibindo dados (saida)
-print("== FIM ==")
+
 

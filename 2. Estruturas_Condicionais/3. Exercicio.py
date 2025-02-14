@@ -1,13 +1,15 @@
 import os
-os.system("Clear") # LImpar terminal
+os.system("clear")
 
-# Solicitando dados
+Numero = int(input("Digite seu Numero: "))
 
+if Numero == 10:
+    print("È IGUAL A 10")
 
+if Numero > 10:
+    print("È MAIOR QUE 10")
 
-# Verificando (Processamento)
+if Numero < 10:
+    print(" È MENOR QUE 10")
 
-Numero < 10
-
-# Exibindo dados (Saida)
-
+print(" == FIM == ")
