@@ -1,13 +1,10 @@
 import os
 os.system("clear")
 
-while True:
-    try:
+Primeiro_numero  = int(input("Digite o primeiro numero da sua operação -> "))
+operacao = input("digite a operação desejada ")
+Segundo_numero  = int(input("Digite o segundo numero da sua operação -> "))
 
- Primeiro_numero  = int(input("Digite o primeiro numero da sua operação -> "))
- operacao = input("digite a operação desejada ")
- Segundo_numero  = int(input("Digite o segundo numero da sua operação -> "))
- Exception
 import os
 os.system("clear")
 

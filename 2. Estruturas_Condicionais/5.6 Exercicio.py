@@ -13,7 +13,8 @@ elif idade == 16 or idade == 17:
 
 
 
-elif idade >= 18 and idade <
+elif idade >= 18 and idade <= 18:
+    print("Voto obrigatorio")
 
 
 
