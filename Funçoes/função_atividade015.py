@@ -1,12 +1,11 @@
 import os
 from time import sleep
+from datetime import date
 os.system('clear || cls')
 
 
 def conversor_idade(idade):
-    idade = 2025 - ano
-    return idade
-
+    return date.today().year - idade
 
 
 
