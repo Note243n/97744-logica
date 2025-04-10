@@ -31,4 +31,3 @@ print()
 sleep(3)
 os.system('clear || cls')
 print('Obrigado por utilizar nosso sistema <3')
-
