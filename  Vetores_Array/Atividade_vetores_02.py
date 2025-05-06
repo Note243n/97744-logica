@@ -1,6 +1,5 @@
 import os 
-os.system('clear || cls')
-
+os.system('clear || cls')         
 Alimentos = []
 Precos = []
 
