@@ -9,8 +9,6 @@ class Loja_carro:
     modelo: str 
     categoria: str
     preco: float
-
-
 Lista_carros = []
 QUANTIDADE_CLIENTE = 2
 
